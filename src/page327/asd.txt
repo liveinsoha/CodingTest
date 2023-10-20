@@ -1,0 +1,3 @@
+hello this is my first using Git
+My name is Leewonjun. and I'm 28 years old.
+
